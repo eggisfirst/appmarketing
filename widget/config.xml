@@ -35,9 +35,13 @@
 		<param name="registUrl" value="http://www.apicloud.com" />
 	</feature>
 	<feature name="wx">
-		<param name="urlScheme" value="wxd0d84bbf23b4a0e4"/>
-		<param name="apiKey" value="wxd0d84bbf23b4a0e4"/>
-		<param name="apiSecret" value="a354f72aa1b4c2b8eaad137ac81434cd"/>
+
+		<param name="urlScheme" value="wx8cd679467feb854a"/>
+
+		<param name="apiKey" value="wx8cd679467feb854a"/>
+
+		<param name="apiSecret" value="13c75de4dc94d863cbfd401bb6df46cd"/>
+
 	</feature>
 	<feature name="qq">
 		<param name="urlScheme" value="tencent101064640" />
